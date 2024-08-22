@@ -37,7 +37,7 @@ Designed and developed a dust sensor for industrial environments, focusing on PM
 - **Company Coordinator** - ENTC Career Fair 2024
 - **Organizing Committee Member** - EXMO 2023, IEEE Open Week 2024
 
-Feel free to explore my repositories and connect with me on LinkedIn!
+### Feel free to explore my repositories and connect with me on LinkedIn!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen-dissanayaka/)](https://www.linkedin.com/in/dmpcd)
 [![Email Badge](https://img.shields.io/badge/Email-praveendissanayaka63%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveendissanayaka63@gmail.com)
