@@ -1,5 +1,9 @@
 # Hi, I'm Praveen Chalanamini Dissanayaka 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dmpcd&color=light blue" alt="Profile Views Counter">
+</p>
+
 I'm an **Electronics and Telecommunication Engineering** undergraduate at the **University of Moratuwa** 🎓. I have a strong passion for turning knowledge into impactful projects 🚀, especially in the fields of:
 
 - **Electronics** ⚡
