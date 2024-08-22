@@ -12,11 +12,11 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 
 ## 🛠 Technical Skills
 - **Programming Languages:**
-  C++, Python, Matlab, AVR, Verilog
+- C++, Python, Matlab, AVR, Verilog
 - **Software Tools:**
-  Altium, SolidWorks, Proteus, LTspice, GNU Radio, Node-RED, Quartus Prime, ModelSim Altera
+- Altium, SolidWorks, Proteus, LTspice, GNU Radio, Node-RED, Quartus Prime, ModelSim Altera
 - **Industry Knowledge:**
-  PCB Design, Embedded Systems, FPGA Design, Soldering (SMD & Through-Hole)
+- PCB Design, Embedded Systems, FPGA Design, Soldering (SMD & Through-Hole)
 
 ## 🌟 Featured Projects
 ### ReFreshmate - Automated Air Renewal System
