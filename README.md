@@ -11,11 +11,11 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 - **FPGA Design** 🖥️
 
 ## 🛠 Technical Skills
- **Programming Languages:**
+ -**Programming Languages:**
  C++, Python, Matlab, AVR, Verilog
- **Software Tools:**
+ -**Software Tools:**
  Altium, SolidWorks, Proteus, LTspice, GNU Radio, Node-RED, Quartus Prime, ModelSim Altera
- **Industry Knowledge:**
+ -**Industry Knowledge:**
  PCB Design, Embedded Systems, FPGA Design, Soldering (SMD & Through-Hole)
 
 ## 🌟 Featured Projects
