@@ -1,6 +1,14 @@
 # Hi, I'm Praveen Dissanayaka 👋
 
-I'm an Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa. I have a strong passion for applying my knowledge in practical projects, especially in the fields of Electronics, Telecommunication, Machine Learning, Data Science,Embedded Systems, IoT, and  FPGA Design,.
+I'm an **Electronics and Telecommunication Engineering** undergraduate at the **University of Moratuwa** 🎓. I have a strong passion for turning knowledge into impactful projects 🚀, especially in the fields of:
+
+- **Electronics** ⚡
+- **Telecommunication** 📡
+- **Machine Learning** 🤖
+- **Data Science** 📊
+- **Embedded Systems** 🔧
+- **IoT** 🌐
+- **FPGA Design** 🖥️
 
 ## 🛠 Technical Skills
 - **Programming Languages:** C++, Python, Matlab, AVR, Verilog
