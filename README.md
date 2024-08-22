@@ -11,12 +11,30 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 - **FPGA Design** 🖥️
 
 ## 🛠 Technical Skills
- -**Programming Languages:**
- C++, Python, Matlab, AVR, Verilog
- -**Software Tools:**
- Altium, SolidWorks, Proteus, LTspice, GNU Radio, Node-RED, Quartus Prime, ModelSim Altera
- -**Industry Knowledge:**
- PCB Design, Embedded Systems, FPGA Design, Soldering (SMD & Through-Hole)
+
+### Programming Languages:
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks)
+![AVR](https://img.shields.io/badge/-AVR-FF3E00?style=flat&logo=atmel)
+![Verilog](https://img.shields.io/badge/-Verilog-00C7B7?style=flat&logo=verilog)
+
+### Software Tools:
+![Altium](https://img.shields.io/badge/-Altium-0078D7?style=flat&logo=altiumdesigner)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-EF3B2D?style=flat&logo=solidworks)
+![Proteus](https://img.shields.io/badge/-Proteus-5D89DB?style=flat&logo=proteus)
+![LTspice](https://img.shields.io/badge/-LTspice-FFFFFF?style=flat&logo=analogdevices)
+![GNU Radio](https://img.shields.io/badge/-GNU%20Radio-083D77?style=flat&logo=gnuradio)
+![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=nodered)
+![Quartus Prime](https://img.shields.io/badge/-Quartus%20Prime-0071C5?style=flat&logo=intel)
+![ModelSim](https://img.shields.io/badge/-ModelSim-00BFFF?style=flat&logo=modelsim)
+
+### Industry Knowledge:
+![PCB Design](https://img.shields.io/badge/-PCB%20Design-000000?style=flat&logo=pcbway)
+![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-0078D7?style=flat&logo=embeddedc)
+![FPGA Design](https://img.shields.io/badge/-FPGA%20Design-FF3E00?style=flat&logo=intel)
+![Soldering](https://img.shields.io/badge/-Soldering-F48024?style=flat&logo=raspberrypi)
+
 
 ## 🌟 Featured Projects
 ### ReFreshmate - Automated Air Renewal System
