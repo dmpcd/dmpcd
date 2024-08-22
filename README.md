@@ -1,4 +1,4 @@
-# Hi, I'm Praveen Dissanayaka 👋
+# Hi, I'm Praveen Chalanamini Dissanayaka 👋
 
 I'm an **Electronics and Telecommunication Engineering** undergraduate at the **University of Moratuwa** 🎓. I have a strong passion for turning knowledge into impactful projects 🚀, especially in the fields of:
 
