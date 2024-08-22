@@ -38,19 +38,19 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 
 ## 🌟 Featured Projects
 
-### 🌀 **ReFreshmate - Automated Air Renewal System**
+### <small>🌀 **ReFreshmate - Automated Air Renewal System**</small>
 Developed an air quality enhancement system for public toilets using sensor integration and microcontroller programming. 🌬️🚽
 
-### 🎵 **High Frequency Amplifier**
+### <small>🎵 **High Frequency Amplifier**</small>
 Designed a high-frequency amplifier capable of driving an 8-ohm speaker across a frequency range of 20kHz to 100kHz. 🎚️🔊
 
-### 💊 **Smart Medibox**
+### <small>💊 **Smart Medibox**</small>
 Executed a smart medibox system with real-time monitoring and remote access via a Node-RED dashboard. 📦📈
 
-### ⚙️ **FPGA UART Design**
+### <small>⚙️ **FPGA UART Design**</small>
 Developed and implemented a UART transceiver on FPGA using Verilog, complete with a functional testbench. 💻🔧
 
-### 🌫️ **PM 2.5 Dust Sensor**
+### <small>🌫️ **PM 2.5 Dust Sensor**</small>
 Designed and developed a dust sensor for industrial environments, focusing on PM 2.5 detection and real-time data processing. 🏭📉
 
 
