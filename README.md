@@ -42,7 +42,7 @@ Designed and developed a dust sensor for industrial environments, focusing on PM
 
 Feel free to explore my repositories and connect with me on LinkedIn!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen-dissanayaka/)](https://www.linkedin.com/in/praveen-dissanayaka/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen-dissanayaka/)](https://www.linkedin.com/in/dmpcd)
 [![Email Badge](https://img.shields.io/badge/Email-praveendissanayaka63%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveendissanayaka63@gmail.com)
 
 
