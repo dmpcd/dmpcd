@@ -34,7 +34,7 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 ![ModelSim](https://img.shields.io/badge/-ModelSim-00BFFF?style=flat&logo=modelsim)
 
 ### Industry Knowledge:
-![PCB Design](https://img.shields.io/badge/-PCB%20Design-000000?style=flat&logo=pcbway)
+![PCB Design](https://img.shields.io/badge/-PCB%20Design-000000?style=flat&logo=pcbway&logoColor=green)
 ![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-0078D7?style=flat&logo=embeddedc)
 ![FPGA Design](https://img.shields.io/badge/-FPGA%20Design-FF3E00?style=flat&logo=intel)
 ![Soldering](https://img.shields.io/badge/-Soldering-F48024?style=flat&logo=raspberrypi)
