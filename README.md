@@ -31,17 +31,6 @@ Developed and implemented a UART transceiver on FPGA using Verilog, complete wit
 ### PM 2.5 Dust Sensor
 Designed and developed a dust sensor for industrial environments, focusing on PM 2.5 detection and real-time data processing.
 
-## 🎓 Education & Achievements
-- **BSc. Eng (Hons.) in Electronics and Telecommunication Engineering** - University of Moratuwa (CGPA: 3.50)
-- **Dean’s List** - Semester 1
-- **Mahapola Merit Scholarship** - Awarded by the Government of Sri Lanka
-- **Top 60 Teams** - ENIGMA Coding Competition
-
-## 📚 Online Courses & Certifications
-- **Supervised Machine Learning** - Stanford University (Coursera)
-- **Introduction to FPGA Design** - University of Colorado Boulder
-- **Advanced Python** - MIHA Institute
-
 ## 🎗 Volunteering & Leadership
 - **Committee Member** - IEEE ComSoc Student Branch Chapter of UoM
 - **Finance Committee Member** - IEEE Industrial Automation Student Branch Chapter of UoM
@@ -53,18 +42,3 @@ Feel free to explore my repositories and connect with me on LinkedIn!
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen-dissanayaka/)](https://www.linkedin.com/in/dmpcd)
 [![Email Badge](https://img.shields.io/badge/Email-praveendissanayaka63%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveendissanayaka63@gmail.com)
 
-
-<!--
-**dmpcd/dmpcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
